@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-f7416": {
+      "hosting": {
+        "danotes": [
+          "danotes-f7416"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-f7416"
+  }
+}
